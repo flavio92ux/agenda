@@ -2,15 +2,10 @@
 
 import React from 'react';
 
-import Hero from '../components/Hero';
-import Content from '../components/Content';
-
 export default function Index() {
   return (
     <>
-      <Hero />
-      <hr />
-      <Content />
+      <h1>Logue na aplicação para ter acesso aos conteúdos</h1>
     </>
   );
 }
